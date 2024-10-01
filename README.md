@@ -1,2 +1,2 @@
-# CC102-C-
+# CC102-C++
 Fundamentals of programming using C++ language
